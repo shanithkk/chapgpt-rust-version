@@ -3,7 +3,7 @@
 ### Usage
 - Clone repository
 - Create API token from openAI.com
-- Add token in .env
+- Set OAI_TOKEN token as environment variable (Open AI TOKEN)
 - Run the code 
 - Enter what you need 
 
